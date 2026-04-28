@@ -121,4 +121,4 @@ import { STORIES, POSTS } from './data';
 
 ## Note on AI Usage
 
-You are welcome to use AI tools (Claude, ChatGPT, Copilot etc.) to help you build this. However, make sure you understand every line of code you submit.
+You are welcome to use AI tools (Claude, ChatGPT, Copilot etc.) to help you build this. However, make sure you understand every line of code that's generated.
