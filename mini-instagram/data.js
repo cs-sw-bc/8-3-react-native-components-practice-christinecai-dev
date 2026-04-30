@@ -1,0 +1,31 @@
+export const STORIES = [
+  { id: '1', username: 'alice' },
+  { id: '2', username: 'bob' },
+  { id: '3', username: 'carol' },
+  { id: '4', username: 'david' },
+  { id: '5', username: 'emma' },
+  { id: '6', username: 'felix' },
+  { id: '7', username: 'grace' },
+  { id: '8', username: 'henry' },
+  { id: '9', username: 'isla' },
+  { id: '10', username: 'jack' },
+  { id: '11', username: 'kira' },
+  { id: '12', username: 'liam' },
+  { id: '13', username: 'maya' },
+];
+
+export const POSTS = [
+  { id: '1', username: 'alice', caption: 'Beautiful day! ☀️', likes: 142 },
+  { id: '2', username: 'bob', caption: 'Coffee time ☕', likes: 87 },
+  { id: '3', username: 'carol', caption: 'Weekend vibes 🎉', likes: 203 },
+  { id: '4', username: 'david', caption: 'Morning run complete.', likes: 64 },
+  { id: '5', username: 'emma', caption: 'Tried a new recipe tonight.', likes: 119 },
+  { id: '6', username: 'felix', caption: 'Sunset was unreal.', likes: 176 },
+  { id: '7', username: 'grace', caption: 'Desk setup is finally done.', likes: 91 },
+  { id: '8', username: 'henry', caption: 'Game night champion.', likes: 58 },
+  { id: '9', username: 'isla', caption: 'Fresh flowers for the weekend.', likes: 133 },
+  { id: '10', username: 'jack', caption: 'Late night coding session.', likes: 147 },
+  { id: '11', username: 'kira', caption: 'Beach walk and clear skies.', likes: 188 },
+  { id: '12', username: 'liam', caption: 'Playlist on repeat today.', likes: 72 },
+  { id: '13', username: 'maya', caption: 'Small wins still count.', likes: 160 },
+];
